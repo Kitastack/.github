@@ -1,0 +1,2 @@
+# .github
+friendly readme files
