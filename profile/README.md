@@ -4,7 +4,9 @@ this is small organization for developing college assignment project.
 anyone can fork this project for educational and 'research' only. 
 don't expect for high quality code or something taht very wooshy, 
 
-we are still learning btw
+we are still learning btw.
+
+Regards ✌️
 
 <!--
 
