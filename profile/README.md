@@ -2,11 +2,11 @@
 
 this is small organization for developing college assignment project.
 anyone can fork this project for educational and 'research' only. 
-don't expect for high quality code or something taht very wooshy, 
+don't expect for high quality code or something that very wooshy, 
 
 we are still learning btw.
 
-Regards ✌️
+Regards from us ✌️
 
 <!--
 
